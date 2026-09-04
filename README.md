@@ -105,7 +105,7 @@ I started my journey through Machine Learning at **Bangkit Academy** and gradual
 
 <p align="center">
   I'm open to collaborating, learning from others, and discussing opportunities in Data Engineering.<br />
-  <strong>Feel free to reach out—just text me!</strong>
+  <strong>Feel free to reach out, just text me!</strong>
 </p>
 
 <p align="center">
